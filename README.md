@@ -1,2 +1,4 @@
-# demo-project
+## Demo Image
+
+![My Photo](SAVE_20260101_090342.jpg)# demo-project
 This repository is for learning GitHub and uploading images. ⭐ My first GitHub repository Practice repository Test project for GitHub
